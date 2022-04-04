@@ -11,8 +11,8 @@ From all of our Kickstarter Data:
 <img width="1014" alt="Screen Shot 2022-04-03 at 7 59 51 PM" src="https://user-images.githubusercontent.com/102930649/161454763-66e535e4-4b2c-4b1e-bf94-2aa4d3847299.png">
 ###
 <img width="978" alt="Screen Shot 2022-04-03 at 8 01 09 PM" src="https://user-images.githubusercontent.com/102930649/161454824-1dff5683-d340-437f-8018-7d5f58012436.png">
-###
-<img width="621" alt="Screen Shot 2022-04-03 at 8 03 00 PM" src="https://user-images.githubusercontent.com/102930649/161454922-ce8f66c8-eaa1-4028-87e6-d10dbfbf3ffe.png">
-###
 
-Based on these findings, it seems Louise would be best advised to launch "The Hitchhiker's Guide to the Family" in June. 
+<img width="621" alt="Screen Shot 2022-04-03 at 8 03 00 PM" src="https://user-images.githubusercontent.com/102930649/161454922-ce8f66c8-eaa1-4028-87e6-d10dbfbf3ffe.png">
+
+
+Based on these findings, it seems Louise would be best advised to launch "The Hitchhiker's Guide to the Family" in Great Britain in June to see the greatest success.
