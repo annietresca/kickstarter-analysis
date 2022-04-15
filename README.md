@@ -12,6 +12,8 @@
 
 	The following images relay the data gathered in this analysis. 
 
+![Screen Shot 2022-04-15 at 4.21.53 PM.png]
+
 ### Analysis of Outcomes Based on Launch Date
 
 	We first analyzed theater related kickstarter outcomes based on launch date. As a result of this analysis, it became clear that the most successful theater campaigns are launched during May and June. Alternatively, campaigns launched in November and December had the worst outcomes. Cancelled campaigns stayed fairly consistent throughout the year with January and March as exceptions. In January, more theater kickstarter campaigns were cancelled than in any other month while in October none were cancelled. 
