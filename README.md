@@ -12,7 +12,15 @@
 
 	The following images relay the data gathered in this analysis. 
 
-![Screen Shot 2022-04-15 at 4.21.53 PM.png]
+
+
+![outcomes based on launch date](Theater_Outcomes_vs_Launch.png)
+
+
+![outcomes based on goal](Outcomes_vs_Goals.png)
+
+
+
 
 ### Analysis of Outcomes Based on Launch Date
 
